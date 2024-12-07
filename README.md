@@ -51,8 +51,3 @@ I am a **Computer Engineering** student at **IZTECH**, passionate about **softwa
 - I also enjoy playing Minesweeper and solving Sudoku puzzles in my free time.
 
 ---
-
-Örnek:  
-```markdown
-### 🚀 GitHub Stats  
-![Sübhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical)
