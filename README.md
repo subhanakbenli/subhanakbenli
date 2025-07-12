@@ -13,16 +13,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanakbenli&layout=compact"/>
-  </a>
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="96%" src="https://streak-stats.demolab.com?user=subhanakbenli&theme=radical&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhanakbenli&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=subhanakbenli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanakbenli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subhanakbenli/subhanakbenli/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
