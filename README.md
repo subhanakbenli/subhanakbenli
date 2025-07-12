@@ -1,3 +1,5 @@
+[![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌟 Hi there, I’m Subhan Akbenli! 👋  
 
 I am a **Computer Engineering** student at **IZTECH**, passionate about **software development**, **automation**, and **API integrations**. Over the years, I’ve honed my skills in **Python**, **Java**, and **Django**, working on diverse projects ranging from automation to web applications.  
