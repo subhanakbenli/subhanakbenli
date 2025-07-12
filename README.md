@@ -67,5 +67,5 @@
 ### 📫 Let’s Connect!
 
 - 📧 Email: [suakbenli@gmail.com](mailto:suakbenli@gmail.com)  
-- 📱 WhatsApp: +90 552 261 2829  
+- 📱 WhatsApp: https://wa.me/905522612829
 - 💼 [LinkedIn](https://linkedin.com/in/sübhan-akbenli)  
