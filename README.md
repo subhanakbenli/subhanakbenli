@@ -49,17 +49,7 @@ Exploring the power of <strong>Artificial Intelligence</strong> in real-world ap
 - ☁️ Linux & Cloud Management  
 - 🤖 Advanced **Machine Learning** with Python  
 - 🐳 Docker + Kubernetes Deployments  
-- 🎨 3D modeling & creative design  
-
----
-
-### 🤝 Looking to Collaborate On
-
-- 🌐 Web dev & automation-focused open-source projects  
-- 📊 AI or data-driven innovation  
-- 🚀 Startup ideas solving real-world challenges  
-
----
+- 🧠 Integrating AI into web and automation workflows
 
 ### 📫 Let’s Connect!
 
