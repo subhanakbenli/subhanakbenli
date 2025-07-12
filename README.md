@@ -1,11 +1,13 @@
-[![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### 🌟 Hi there, I’m Subhan Akbenli! 👋  
 
 I am a **Computer Engineering** student at **IZTECH**, passionate about **software development**, **automation**, and **API integrations**. Over the years, I’ve honed my skills in **Python**, **Java**, and **Django**, working on diverse projects ranging from automation to web applications.  
 
+
+[![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanakbenli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=subhanakbenli&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ---
 
 ### 🔧 Technologies I Use  
