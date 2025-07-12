@@ -7,9 +7,10 @@
 <br/>
 🧠 Exploring the power of <strong>Artificial Intelligence</strong> in real-world applications 
 <br/>
-🌐 Skilled in <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong> & more  
+Exploring the power of <strong>Artificial Intelligence</strong> in real-world applications 
+<br/> 
+🌐 Skilled in <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong> & more 
 </p>
-Exploring the power of <strong>Artificial Intelligence</strong> in real-world applications <br/> 🌐 Skilled in <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong> & more </p>
 ---
 ### 📊 GitHub Stats
 
