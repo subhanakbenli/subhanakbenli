@@ -1,4 +1,5 @@
-![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=tokyonight)
+[![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 🌟 Hi there, I’m Subhan Akbenli! 👋  
@@ -42,15 +43,4 @@ I am a **Computer Engineering** student at **IZTECH**, passionate about **softwa
 ### 📫 Let’s Connect!  
 - 📧 Email: suakbenli@gmail.com  
 - 📱 WhatsApp: +90 552 261 2829  
-- 💼 [LinkedIn](https://linkedin.com/in/sübhan-akbenli)  
-- 🌐 [Portfolio](https://subhanakbenli.github.io)
-
----
-
-### 🌟 Fun Facts  
-- I switched from **Dentistry** to pursue my passion for programming.  
-- I enjoy exploring **technology trends** and experimenting with **new tools**.  
-- When I’m not coding, I’m probably thinking about coding—or occasionally writing poetry.
-- I also enjoy playing Minesweeper and solving Sudoku puzzles in my free time.
-
----
+- 💼 [LinkedIn](https://linkedin.com/in/sübhan-akbenli) 
