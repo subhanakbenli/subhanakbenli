@@ -1,4 +1,5 @@
-[![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanakbenli&show_icons=true&theme=tokyonight)
+
 
 ### 🌟 Hi there, I’m Subhan Akbenli! 👋  
 
