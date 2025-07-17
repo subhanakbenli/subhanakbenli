@@ -56,4 +56,7 @@ Exploring the power of <strong>Artificial Intelligence</strong> in real-world ap
 
 - 📧 Email: [suakbenli@gmail.com](mailto:suakbenli@gmail.com)  
 - 📱 WhatsApp: https://wa.me/905522612829
-- 💼 [LinkedIn](https://linkedin.com/in/sübhan-akbenli)  
+- 💼 [LinkedIn](https://linkedin.com/in/sübhan-akbenli)
+
+> ✅ This profile belongs to Subhan Akbenli, an active GitHub developer focused on Python, AI, and automation.
+
